@@ -1,0 +1,26 @@
+.searchVideos {
+  display: flex;
+  margin-top: 30px;
+}
+.searchVideos:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
+.searchVideo__text {
+  display: flex;
+  margin-left: 10px;
+  align-items: center;
+}
+.searchVideo__text > p {
+  margin-top: 13px;
+}
+.searchAvatar__avatar {
+  margin-top: 13px;
+}
+.searchVideos__info > h5 {
+  margin-left: 8px;
+  margin-top: 10px;
+}
+.searchVideos__info > h4 {
+  margin-top: 17px;
+}
